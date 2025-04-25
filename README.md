@@ -200,7 +200,3 @@ Indexes are added to improve query performance on frequently accessed columns. E
 3. Modify or extend the schema as needed for additional features.
 
 ---
-
-## License
-
-This project is for educational purposes and is not intended for production use.
